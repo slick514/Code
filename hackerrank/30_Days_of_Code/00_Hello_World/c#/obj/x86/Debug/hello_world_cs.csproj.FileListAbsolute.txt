@@ -1,0 +1,6 @@
+C:\Users\justi\code\hackerrank\30_Days_of_Code\00_Hello_World\c#\bin\Debug\ConsoleApplication.exe
+C:\Users\justi\code\hackerrank\30_Days_of_Code\00_Hello_World\c#\bin\Debug\ConsoleApplication.pdb
+C:\Users\justi\code\hackerrank\30_Days_of_Code\00_Hello_World\c#\obj\x86\Debug\hello_world_cs.csprojAssemblyReference.cache
+C:\Users\justi\code\hackerrank\30_Days_of_Code\00_Hello_World\c#\obj\x86\Debug\hello_world_cs.csproj.CoreCompileInputs.cache
+C:\Users\justi\code\hackerrank\30_Days_of_Code\00_Hello_World\c#\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\justi\code\hackerrank\30_Days_of_Code\00_Hello_World\c#\obj\x86\Debug\ConsoleApplication.pdb
