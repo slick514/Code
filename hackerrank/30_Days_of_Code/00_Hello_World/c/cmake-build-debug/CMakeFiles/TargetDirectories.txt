@@ -1,0 +1,3 @@
+C:/Users/justi/code/hackerrank/30_Days_of_Code/00_Hello_World/c/cmake-build-debug/CMakeFiles/c.dir
+C:/Users/justi/code/hackerrank/30_Days_of_Code/00_Hello_World/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/justi/code/hackerrank/30_Days_of_Code/00_Hello_World/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
